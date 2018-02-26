@@ -11,7 +11,7 @@ RUN apk add bash
 
 #Variables
 # Environment variable#
-#ENV HUBOT_SLACK_TOKEN nope-1234-5678-91011-00e4dd
+#ENV HUBOT_SLACK_TOKEN your-pers-onal-slack-token
 ENV HUBOT_SLACK_TOKEN xoxb-319053395125-S5giZm5Mxlnt1PFDnRZ8HlTk
 ENV HUBOT_NAME myhubot
 ENV HUBOT_OWNER admin

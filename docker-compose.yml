@@ -1,0 +1,8 @@
+hubot:
+  build: .
+  environment:
+    - HUBOT_SLACK_TOKEN=xoxb-319053395125-S5giZm5Mxlnt1PFDnRZ8HlTk
+    - HUBOT_NAME=mr_spock
+    - HUBOT_OWNER=Federation
+    - HUBOT_DESCRIPTION="A vulcan bot for the common Galaxy Class Ship"
+    - EXTERNAL_SCRIPTS=""
